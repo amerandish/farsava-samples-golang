@@ -4,6 +4,6 @@
 
 | action                                                  | description |
 | ------------------------------------------------------- | ----------- |
-| [health](/src/speech/health/readme.md)                  |             |
-| [asr](/src/speech/asr/readme.md)                        |             |
-| [asr live (web socket)](/src/speech/asrlive/readme.md) |             |
+| [health](/src/speech/health)                  |             |
+| [asr](/src/speech/asr)                        |             |
+| [asr live (web socket)](/src/speech/asrlive) |             |
