@@ -1,6 +1,7 @@
 
 # Farsava - ASR Api
 
+First create an `API KEY` [here](https://panel.amerandish.com/)
 
 ## install dependencies
 
